@@ -1,0 +1,32 @@
+[
+    { 
+        "id":"1",
+        "profilePicture":"img/avatar/hero.png"
+    },
+    {
+        "id":"2",
+        "profilePicture":"img/avatar/1.jpg"
+    },
+    {
+        "id":"3",
+        "profilePicture":"img/avatar/2.jpg"
+    },
+    {  
+        "id":"4",
+        "profilePicture":"img/avatar/3.jpg"
+    } ,
+    {  
+        "id":"5",
+        "profilePicture":"img/avatar/4.jpg"
+    }, 
+    
+    { 
+        "id":"6",
+        "profilePicture":"img/avatar/5.jpg"
+    },
+    {  
+        "id":"7",
+        "profilePicture":"img/avatar/6.jpg"
+    }
+  ]
+  

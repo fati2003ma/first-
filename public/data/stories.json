@@ -1,0 +1,27 @@
+[
+    {
+     
+      "title": "Script House",
+      "image": "img/stories/st-1.jpeg",
+      "profilePicture": "img/avatar/1.jpg"
+    },
+    {
+      
+      "title": "Story Two",
+      "image": "img/stories/st-2.jpeg",
+      "profilePicture": "img/avatar/2.jpg"
+    },
+    {
+
+      "title": "Story Three",
+      "image": "img/stories/st-3.jpeg",
+      "profilePicture": "img/avatar/3.jpg"
+    },
+    {
+   
+      "title": "Story Four",
+      "image": "img/stories/st-4.jpg",
+      "profilePicture": "img/avatar/4.jpg"
+    }
+  ]
+  

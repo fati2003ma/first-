@@ -1,0 +1,28 @@
+[
+    {
+      "id": "1",  
+      "name": "rosie pie",
+      "profilePicture": "img/avatar/1.jpg"
+    
+    },
+    {
+      "id": "2",  
+      "name": "sarah jones",
+      "profilePicture": "img/avatar/4.jpg"
+     
+    },
+    {
+      "id": "3",  
+      "name": "chris doe",
+      "profilePicture": "img/avatar/3.jpg"
+    
+    },
+    {
+      "id": "4",  
+      "name": "katie adam",
+      "profilePicture": "img/avatar/2.jpg"
+    
+     
+    }
+  ]
+  
